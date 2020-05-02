@@ -1,4 +1,4 @@
-# MachineLearingMath
+# Mathematics_Machine_Learning
 Coursera Mathematics for Machine Learning
 
 https://www.coursera.org/specializations/mathematics-machine-learning
